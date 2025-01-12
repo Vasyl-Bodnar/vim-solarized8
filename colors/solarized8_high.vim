@@ -70,7 +70,7 @@ if &background == 'dark'
   hi! link debugPC SignColumn
   hi! link lCursor Cursor
 
-  hi Normal guifg=#eee8d5 guibg=#002b36 guisp=NONE gui=NONE
+  hi Normal guifg=NONE guibg=NONE guisp=NONE gui=NONE
   hi Added guifg=#859900 guibg=NONE guisp=NONE gui=NONE
   hi Changed guifg=#b58900 guibg=NONE guisp=NONE gui=NONE
   hi ColorColumn guifg=NONE guibg=#073642 guisp=NONE gui=NONE
